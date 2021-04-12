@@ -1,11 +1,11 @@
 ---
 title: 'About'
-date: 2018-02-22T17:01:34+07:00
-layout: page
-bodyClass: page-about
 intro_image: "images/illustrations/microchip.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
+date: 2018-02-22T17:01:34+07:00
+layout: page
+bodyClass: page-about
 ---
 
 
