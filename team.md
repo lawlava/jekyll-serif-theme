@@ -6,6 +6,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Our Expertise
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+The team at Law Lava Labs is comprised of incredibly talented engineers and lawyers that have degrees from Ivy League & other top universities and have industry experience at the largest technology companies.

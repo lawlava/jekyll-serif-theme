@@ -8,8 +8,8 @@ bodyClass: page-about
 
 ## Deep-learning Solutions
 
-We specialize in deep learning and artificial intelligence applications. We create and deliver servers and individual components for your needs. 
+We specialize in deep learning and artificial intelligence applications. We create and deliver servers and individual components customized to your needs. 
 
-## Our Experience
+## Why Law Lava?
 
-The team at Law Lava Labs is comprised of incredibly talented engineers and lawyers that have degrees from Ivy League universities and have industry experience at the largest technology companies.
+Law Lava Labs develops and sells technologies for smarter data processing. Our products and technologies have roots in applications for the legal industry, but we now deliver solutions to a number of industries.
