@@ -38,3 +38,9 @@ These professional cards are the industry standard for incredibly complex proces
 	Nvidia Quadro RTX 6000
 	
 	Nvidia Quadro RTX 8000
+
+	Nvidia TITAN
+
+	Nvidia Tesla 
+
+	Nvidia DGX
