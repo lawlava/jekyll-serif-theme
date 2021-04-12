@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Sourcing Hardware Components",
+    "description": "We create and source servers and GPUs",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Legal Expertise",
+    "description": "Our team has extensive legal experience to integrate AI and ML applications for law",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Software Solutions",
+    "description": "We design tailor-made software solutions for deep learning",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

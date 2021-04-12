@@ -14,16 +14,16 @@ AMD creates some of the top graphics cards in the industry. We leverage the Rade
 
 These consumer graphics cards are incredibly powerful and can even be leveraged in many professional applications. Here are several of the most popular ones we use in our products: <br>
 
-      AMD Radeon 5300 
+    AMD Radeon 5300 
 
-      AMD Radeon 5500
+    AMD Radeon 5500
 
-      AMD Radeon 5600 
+    AMD Radeon 5600 
 
-      AMD Radeon 5700 
+    AMD Radeon 5700 
 
-      AMD Radeon 6700 
+    AMD Radeon 6700 
 
-      AMD Radeon 6800 
+    AMD Radeon 6800 
 
-      AMD Radeon 6900 
+    AMD Radeon 6900 
