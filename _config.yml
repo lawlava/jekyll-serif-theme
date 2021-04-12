@@ -18,8 +18,8 @@ footer:
 seo:
   meta_og_title: "Law Lava"
   meta_og_type: "website"
-  meta_og_url: "https://jekyll-serif.netlify.app"
-  meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
+  meta_og_url: "lawlava.com"
+  meta_og_image: "images/datacenter1"
   meta_og_description: "Machine Learning and Artificial Intelligence Solutions Featuring GPUs"
 
 collections:
