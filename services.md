@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: services
-intro_image: "images/illustrations/microchip.svg"
+intro_image: "images/3090.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
